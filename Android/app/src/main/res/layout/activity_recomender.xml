@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:minHeight="?actionBarSize"
+        android:padding="@dimen/appbar_padding"
+        android:text="Recommender"
+        android:textSize="24sp"
+        android:fontFamily="@font/montserrat_bold"
+        android:background="@drawable/border_bottom_roundedx"
+        android:textAppearance="@style/TextAppearance.Widget.AppCompat.Toolbar.Title"/>
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_marginTop="10dp"
+        android:layout_width="400dp"
+        android:layout_height="270dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/backgroundpatient" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:text="How are you feeling?"
+        android:textColor="#0C0C0C"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="sans-serif"
+        android:text="Summarize your symptoms"
+        android:textSize="15sp" />
+
+
+    <EditText
+        android:id="@+id/reason"
+        android:layout_width="262dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/custom_edittext"
+        android:ems="10"
+        android:fontFamily="@font/montserrat"
+        android:lines="8"
+        android:minLines="6"
+        android:maxLines="10"
+        android:gravity="top"
+        android:inputType="textMultiLine"
+        android:scrollbars="vertical"
+        android:padding="10dp"
+        android:textSize="16sp"
+        android:layout_marginBottom="15dp"/>
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="35dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/voice"  />
+
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="262dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/custombuttonxx"
+        android:fontFamily="@font/montserrat"
+        android:padding="10dp"
+        android:text="Discover"
+        android:textAllCaps="false"
+        android:textColor="#FFF"
+
+        android:textSize="16sp" />
+</LinearLayout>
