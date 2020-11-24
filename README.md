@@ -75,7 +75,8 @@ ________
 ```
 ________
 
-Authored By: Aniket Agarwalla
+#### Authored By
+Aniket Agarwalla
 
 Department of Computer Science and Engineering <br>
 National Institute of Technology Silchar <br>
