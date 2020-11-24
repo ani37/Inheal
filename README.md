@@ -19,6 +19,8 @@ _________
 
 #### Built with
 <a href="https://github.com/ani37/Inheal/blob/main/Pictures/tech.png"><img src="https://github.com/ani37/Inheal/blob/main/Pictures/tech.png" alt="Frame-7" border="0"></a>
+
+#### Android App download link : [here](https://github.com/ani37/Inheal/blob/main/inheal.apk?raw=true)
 ____
 
 #### Research and Implementation
