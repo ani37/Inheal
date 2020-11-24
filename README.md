@@ -1,16 +1,10 @@
-# ID Agile
+# Inheal
 
-ID Agile is a healthcare solution which seeks to reduce patients waiting time (at hospitals queue). Our clients are the health insurance companies and the users are the patients. 
+Inheal is a healthcare solution which seeks to reduce patients waiting time (at hospitals queue). Our clients are the health insurance companies and the users are the patients. 
 
 The patient types what he is feeling on our app (e.g. "My chests hurts" or "I have a knee pain when i walk a lot") and then via Natural Language Processing the symptoms are classified into a medical specialty (e.g. "Orthopedist" or "Gastroenterologist"). The app also gathers information such as patients location. The classification will be compared to a database of hospitals and the closest one that has physicians from that specialty will be indicated. 
 
 If the patient decides to go to that hospital, a QR code is generated. The hospital receives an alert on its integrated system and when the patient arrives it simply scans the QR code and he/she will be directed to the correct hospitals wing.
-
-- [Bruna Zamith Santos](https://www.linkedin.com/in/bruna-zamith/): AI and Developer
-- [Fabiana Paes](https://www.linkedin.com/in/fabianapaes/): Healthcare
-- [Jessica Marques](https://www.linkedin.com/in/j%C3%A9ssica-marques-88b33b69/): Bussiness
-- [Leonardo Antunes](https://www.linkedin.com/in/antunesleonardo/): Design
-- [Luciana Rodrigues](https://www.linkedin.com/in/luciana-rodrigues-a8451aa3/): BI
 
 ## Implemented
 The NLP was implemented making use of SKLearn (Python3). A simple interface was created as well as a SQL database. 
@@ -28,7 +22,7 @@ In summary, we applied:
 - [x] Simplified interface
 - [x] Simplified database
 
-![](https://github.com/bzamith/HealthHackathon/blob/master/Pictures/exampleExecution.png)
+![](https://github.com/ani37/Inheal/blob/Pictures/exampleExecution.png)
 
 ## Execution
 ```bash
@@ -41,13 +35,12 @@ In summary, we applied:
 - interface.py = Run the interface and calls ai.py
 - overview-of-recordings-especialists.csv = Our adapted dataset
 - bd.sql = A prototype of a database for our api
-- [dashboard.html](https://app.powerbi.com/view?r=eyJrIjoiYTk3MTdiMWMtZjExMS00YjQ5LTgxOWMtYjdmNjM3NzYzNzhkIiwidCI6IjA4MTQ3M2M2LTUwNGEtNDM3Zi04MzhjLWFiOWE2ZjY3MWVmYyIsImMiOjR9)
 
 ## Prototype
 The screens below are prototypes of our solution:
 
-![](https://github.com/bzamith/HealthHackathon/blob/master/Pictures/prot1.png)
-![](https://github.com/bzamith/HealthHackathon/blob/master/Pictures/prot2.png)
+![](https://github.com/ani37/Inheal/blob/Pictures/prot1.png)
+![](https://github.com/ani37/Inheal/blob/Pictures/prot2.png)
 
 ## Simulated Dashboard
-![](https://github.com/bzamith/HealthHackathon/blob/master/Pictures/dash0.png)
+![](https://github.com/ani37/Inheal/blob/Pictures/dash0.png)

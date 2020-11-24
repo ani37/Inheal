@@ -19,7 +19,8 @@
         android:layout_gravity="center"
         android:layout_marginBottom="40dp"
         app:civ_border_color="#FFFFFF"
-        app:civ_border_width="2dp" />
+        app:civ_border_width="2dp"
+        tools:ignore="MissingClass" />
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

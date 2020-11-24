@@ -19,7 +19,7 @@
         android:layout_marginTop="30dp"
         app:civ_border_color="#FFFFFF"
         app:civ_border_width="2dp"
-        android:src="@drawable/aliluchloutfi" />
+        android:src="@drawable/patient" />
     <ImageView
         android:id="@+id/profilePictureButton"
         android:layout_width="35dp"
@@ -50,7 +50,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginRight="10dp"
                 android:layout_gravity="center_vertical"
-                app:srcCompat="@drawable/ic_person" />
+                app:srcCompat="@drawable/ic_person"
+                tools:ignore="VectorDrawableCompat" />
 
             <EditText
                 android:id="@+id/fullName"

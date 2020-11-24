@@ -12,7 +12,7 @@
         android:minHeight="?actionBarSize"
         android:padding="@dimen/appbar_padding"
         android:text="Recommender"
-        android:textSize="24sp"
+        android:textSize="20sp"
         android:fontFamily="@font/montserrat_bold"
         android:background="@drawable/border_bottom_roundedx"
         android:textAppearance="@style/TextAppearance.Widget.AppCompat.Toolbar.Title"/>
@@ -21,7 +21,7 @@
         android:id="@+id/imageView5"
         android:layout_marginTop="10dp"
         android:layout_width="400dp"
-        android:layout_height="270dp"
+        android:layout_height="220dp"
         android:layout_gravity="center"
         android:layout_marginBottom="10dp"
         android:background="@drawable/backgroundpatient" />
