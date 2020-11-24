@@ -1,4 +1,5 @@
-# Inheal<a href="https://github.com/ani37/Inheal/blob/main/Pictures/logo.jpg"><img src="https://github.com/ani37/Inheal/blob/main/Pictures/logo.jpg" alt="Frame-9" border="0" width = "300"></a>
+# Inheal
+
 ### Table of Contents
 * About the Product
 	* Built With
@@ -17,7 +18,7 @@ If the patient decides to go to that hospital, a QR code is generated. The hospi
 _________
 
 #### Built with
-<a href="https://github.com/ani37/Inheal/blob/main/Pictures/tech.jpg"><img src="https://github.com/ani37/Inheal/blob/main/Pictures/tech.jpg" alt="Frame-7" border="0"></a>
+<a href="https://github.com/ani37/Inheal/blob/main/Pictures/tech.png"><img src="https://github.com/ani37/Inheal/blob/main/Pictures/tech.png" alt="Frame-7" border="0"></a>
 ____
 
 #### Research and Implementation
