@@ -1,6 +1,5 @@
 drop table Patient;
 drop table Hospital;
-
 CREATE TABLE Patient(
     id_number CHAR(14) NOT NULL PRIMARY KEY,
     name VARCHAR2(255) NOT NULL,
