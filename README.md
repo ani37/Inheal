@@ -9,6 +9,7 @@
 * Video
 * Execution for model
 __________
+
 ### About the Product
 Inheal is a healthcare solution which seeks to reduce patients waiting time (at hospitals queue). Our clients are the hospitals, health insurance companies and the users are the patients and doctors.It also makes the communication between doctors and patients much easier. 
 
